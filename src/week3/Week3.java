@@ -16,6 +16,7 @@ public class Week3 {
     {
         System.out.println("learning github operations");
          System.out.println("learning github pull");
+          System.out.println("learning github fetch");
     }
 
 }
